@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://dhanush-chanchali.github.io/-nexa-HR-INTELLIGENT-HR-WORKFORCE-PLATFORM/",
+  "homepage": "https://dhanush-chanchali.github.io/Nexa-HR-/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
