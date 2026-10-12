@@ -193,3 +193,9 @@ Contributions, issues, and feature requests are welcome!
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use it for personal, commercial, or educational projects.
+
+
+
+
+deployed url: https://dhanush-chanchali.github.io/Nexa-HR-/#/login
+
